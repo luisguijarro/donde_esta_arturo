@@ -1,0 +1,10 @@
+[package]
+name = "donde_esta_arturo"
+version = "0.1.0"
+authors = ["Luis Guijarro Pérez <luisgp82@hotmail.es>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.5.5"
